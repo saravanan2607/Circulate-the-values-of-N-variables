@@ -35,6 +35,6 @@ def circulate():
 ```
 
 ## Output:
-![Output](/Circulate.jpg)
+![Output](Circulate.jpg)
 
 ## Result:
