@@ -37,7 +37,8 @@ def circulate():
 ```
 
 ## Output:
-![Output](/ss.jpg)
+
+![Exp-1a CR Swapping of two variables_ Attempt review - Google Chrome 15-06-2023 09_03_16 (2)](https://github.com/saravanan2607/Circulate-the-values-of-N-variables/assets/121395849/5a77ec74-e583-4b87-905f-d2b682b9a9e2)
 
 ## Result:
 thus, the Circulate the values of N variables is successfully executed.
