@@ -1,3 +1,5 @@
+# EXP - 02
+# DATE: 03/09/24
 # Circulate-the-values-of-N-variables
 ## Aim:
 To write a python program to circulate the n variables using function concept
@@ -25,8 +27,8 @@ End of Program
 ## Program:
 ``` py
 #Program to circulate N values.
-#Developed by: C Saravanan
-#RegisterNumber: 22008175
+# Developed by: Saravanan C
+# Register no: 212222110041
 def circulate():
     l=eval(input())
     n=int(input())
@@ -38,7 +40,7 @@ def circulate():
 
 ## Output:
 
-![Exp-1a CR Swapping of two variables_ Attempt review - Google Chrome 15-06-2023 09_03_16 (2)](https://github.com/saravanan2607/Circulate-the-values-of-N-variables/assets/121395849/5a77ec74-e583-4b87-905f-d2b682b9a9e2)
+![EXP-2 CR Circulate n variables](https://github.com/user-attachments/assets/36c19d46-f824-4646-8ad6-b7697416f895)
 
 ## Result:
 thus, the Circulate the values of N variables is successfully executed.
